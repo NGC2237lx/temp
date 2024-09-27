@@ -2,5 +2,5 @@
 
 void B::out() {
     std::cout<<"hello,world"<<std::endl;
-    std::cout<<"branch first change";
+    std::cout<<"branch second change";
 }   
